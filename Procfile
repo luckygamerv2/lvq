@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: node 7alat.js
